@@ -1,0 +1,23 @@
+Interactive console application, with options that can be selected with the directional keys, numbers and 
+with the directional keys, numbers and with the space key when there are multiple options.
+1-stdin
+2-stdout
+3-Cycles
+4-Inquirer
+5-Classes in JavaScript
+6-JSON files
+7-Strongly async and await
+8-Transformations
+
+
+Aplicación de consola interactiva, con opciones que se puedan seleccionar 
+con las teclas direccionales, números y con la tecla espaciadora cuando hay multiples opciones.
+1-stdin
+2-stdout
+3-Ciclos
+4-Inquirer
+5-Clases en JavaScript
+6-Archivos JSON
+7-Fuertemente async y await
+8-Transformaciones
+

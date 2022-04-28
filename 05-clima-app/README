@@ -1,0 +1,23 @@
+Interactive console application, a call is made to the Mapbox API that returns the places that match the search term, we use the longitude and latitude coordinates to bring the weather information.
+The project focuses on the following topics:
+1-Consumption of APIs
+2-HTTP calls to external servers
+3-Request package - superficially
+4-Axios package
+5-Mapbox places to get places by name
+6-Use of OpenWeather to get the weather
+7-Console application with history
+8-Environment variables
+
+
+Aplicación de consola interactiva, se realiza una llamada a la API de Mapbox que devuelve los lugares que coinciden con el término de busqueda, utilizamos las coordenadas de longitud y latitud para traer la información del clima.
+El proyecto  se enfoca en los siguientes temas:
+1-Consumo de APIs
+2-Llamadas HTTP hacia servidores externos
+3-Paquete request - superficialmente
+4-Paquete Axios
+5-Mapbox places para obtener lugares por nombre
+6-Uso de OpenWeather para obtener el clima
+7-Aplicación de consola con historial
+8-Variables de entorno
+
